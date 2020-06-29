@@ -1,2 +1,2 @@
 # GSBabyBluetooth
-Personalized customization based on babybluetooth third-party library
+Personalized customization based on babybluetooth Library.
